@@ -13,14 +13,12 @@ To compare and contrast the performance of the RAG chatbot, other chatbots were 
 
 ### Project Structure
 
-- **/notebooks**: Contains the main development notebooks:
+- **/ProjectFiles**: Contains the main development notebooks:
   - `RB_Chatbot.ipynb`: Simple implementation of the Rule-Based chatbot.
   - `G_Chatbots.ipynb`: Development of the stateless and stateful generative chatbots.
   - `RAG.ipynb`: Final notebook containing the implementation of the RAG chatbot.
-  
-- **/data**: Contains the web-scraped data used for the RAG chatbot's knowledge base.
-  
-- **/evaluation**: Scripts and results related to the evaluation of each chatbot's performance on a set of Lisbon tourism-related questions.
+
+- **/DataFiles**: Contains the web-scraped data used for the RAG chatbot's knowledge base. As well as the memory.db file where the conversation from the statful chatbot in `G_Chatbots.ipynb` is being stored
 
 ### Key Components
 
