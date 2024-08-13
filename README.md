@@ -3,8 +3,8 @@
 This repository contains a series of chatbots developed to compare the performance and responses of different chatbot architectures in answering tourism-related questions about Lisbon. The project culminates in the implementation of a Retrieval-Augmented Generation (RAG) chatbot, which leverages web-scraped data from various Lisbon tourism websites.
 
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Project Structure](#project-structure)
+- [Overview](#project-overview)
+- [Structure](#project-structure)
 - [Key Components](#key-components)
 - [Usage](#usage)
 - [Conclusion](#conclusion)
